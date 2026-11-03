@@ -1,6 +1,10 @@
 # Proyecto del equipo
 
-Nombre del proyecto: Vota al psoe
+Nombre del proyecto: Proyecto Octativa
 
 ## Miembros
+
 - Ruben
+
+- Javier
+
